@@ -1,0 +1,12 @@
+title: Linda Chen - Portfolio
+author: Linda Chen
+email: yurdhafadhila@gmail.com
+description: Linda Chen - Portfolio; Machine Learning, Apps, AI
+url: "https://dahliahadfury.github.io/"
+twitter_username: yurdhafadhila
+github_username:  dahliahadfury
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
