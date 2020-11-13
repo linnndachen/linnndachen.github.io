@@ -32,11 +32,13 @@ body {
   height: 15vw;
   object-fit: cover;
 }
-.blogs .card {
-  height: 280pt;
-  margin-bottom: 20pt;
+.blogs .card-body {
+  height: 120pt;
 }
-.card-body {
+.blogs .card {
+  margin-bottom: 8%;
+}
+.pj .card-body {
   height: 240pt;
 }
 
@@ -44,7 +46,7 @@ body {
   width: 100%;
 	padding: 25px 0;
 	text-align: center;
-  background-color:#0C1D2E;
+  background-color: white;
 }
 
 .btn-linkedin {
