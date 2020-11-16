@@ -1,7 +1,11 @@
 # Personal Website
 
 ## Acknowledgement: 
-Template by: **[gsurma](https://gsurma.github.io)**
+Template by: [Gsurma](https://gsurma.github.io)
+
+Illustrations by: [BBEEII_](https://www.xiaohongshu.com/user/profile/5d95a98f0000000001008228)
+
+Images from: [Unsplash](https://unsplash.com/)
 
 ## Template Instruction
 If you would like to use the template, please 
