@@ -19,6 +19,10 @@ body {
 
 .navbar {
     background-color:white;
+    height: 50pt;
+}
+.nav-item{
+  font-size: 14pt;
 }
 
 .card {
@@ -123,6 +127,14 @@ body {
     -webkit-transition-property: -webkit-transform, opacity;
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
+}
+.img-des {
+  font-size: 10pt;
+  text-align: center;
+}
+.link-text {
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 .intro {
