@@ -18,3 +18,6 @@ If you would like to use the template or any of the resources, please
 1) credit to the orginal designer
 
 2) follow this repo to get started with Jekyll: https://github.com/github/personal-website
+
+## Trouble Shoot
+if you run into the problem of installing commonmarker - which I did. The first answer in this post: https://www.titanwolf.org/Network/q/5dc67795-12dd-4de9-b92c-411bd9a82057/y helped me. 
