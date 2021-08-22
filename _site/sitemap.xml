@@ -10,7 +10,11 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/files/Linda%20Chen%20resume%20-%20SD.pdf</loc>
+<loc>http://localhost:4000/resumes/Linda%20Chen%20Resume%20(Aug.2021).pdf</loc>
+<lastmod>2021-08-21T18:24:19-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resumes/Linda%20Chen%20resume%20(July.2021).pdf</loc>
 <lastmod>2021-07-19T12:01:10-07:00</lastmod>
 </url>
 </urlset>
